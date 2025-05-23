@@ -12,3 +12,7 @@
 -how many runs scored aganist to opponents ?
 -what is the highest avgerage for invidual team ?
 -what is the highest runs scoed team ?
+
+#Dashboard view 
+-<a href="https://github.com/Baluloyal/Power-BI-Dashboard-/blob/main/Power%20Bi%20dashboard%20image%201%20.png">Dashboard</a>
+
