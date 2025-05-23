@@ -1,2 +1,4 @@
 # Power-BI-Dashboard-
-##I create Dashboard Related to the Cricket Analysis 
+
+#Project Objective 
+##  I created a Power Bi Dashboard with help of cricket analysis data 
